@@ -297,7 +297,7 @@ class RobotController
   // </rtc-template>
 
  private:
-	 bool sensor_data[2];
+	 bool sensor_data[2];      //センサー値を一時格納する変数
   // <rtc-template block="private_attribute">
   
   // </rtc-template>
